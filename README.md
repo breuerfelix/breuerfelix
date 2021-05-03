@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**breuerfelix/breuerfelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://breuer.dev/about">me</a> .
+    <a href="https://breuer.dev">blog</a> .
+    <a href="https://youtube.breuer.dev">youtube</a> .
+    <a href="https://twitch.breuer.dev">twitch</a> .
+    <a href="https://twitter.breuer.dev">tweets</a> .
+    <a href="https://instagram.com/flixb_">instagram</a> .
+    <a href="https://patreon.breuer.dev">sponsor</a> .
+  </samp>
+</p>
